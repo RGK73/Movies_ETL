@@ -43,4 +43,6 @@ The data from the MovieLens rating CSV file is added to the ratings table in the
 
 ![alt_text](https://github.com/RGK73/Movies_ETL/blob/main/Images/Elapsed_Time.png)
 
-## Summary: Taking raw data and processing and loading it to form an ETL pipeline is very interesting and time consuming process. To know how to transform data is a learned skill with lot of practice. In the end to see the data transformation is like with the help of all these tools is very magical.
+## Summary: 
+
+Taking raw data and processing and loading it to form an ETL pipeline is very interesting and time consuming process. To know how to transform data is a learned skill with lot of practice. In the end to see the data transformation is like with the help of all these tools is very magical.
